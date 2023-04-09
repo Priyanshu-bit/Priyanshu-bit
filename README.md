@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-bit&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-bit" /> </p>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/68877780/230753175-adf6e772-085f-46fa-9a42-b93b803e1e34.png"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-bit" alt="priyanshu-bit" /></a> </p>
 
 
