@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
-<h3 align="center">A passionate and innovative MERN stack developer</h3>
-
+<h3 align="center">A passionate self-taught full stack web developer.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-bit&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-bit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-bit" alt="priyanshu-bit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bla_ck_scorpion" target="blank"><img src="https://img.shields.io/twitter/follow/bla_ck_scorpion?logo=twitter&style=for-the-badge" alt="bla_ck_scorpion" /></a> </p>
 
+- 🔭 I’m currently working on **Fit Scorpion**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **priyanshupatel56@gmail.com**
 
+- 📄 Know about my experiences [https://bit.ly/resumedld](https://bit.ly/resumedld)
+
+- ⚡ Fun fact **I use Tabs instead of Spaces**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bla_ck_scorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bla_ck_scorpion" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshu patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu patel" height="30" width="40" /></a>
+<a href="https://instagram.com/_.priy_anshu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.priy_anshu__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshump17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshump17" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/theblackscorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theblackscorpion" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,9 +55,9 @@
       </table>
 </p>
 </br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-bit&show_icons=true&locale=en&layout=compact" alt="priyanshu-bit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-bit&show_icons=true&locale=en" alt="priyanshu-bit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-bit&" alt="priyanshu-bit" /></p>
+<table align="center"><tr>
+<td><p><img align="left" width ="495" height= "197" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-bit&show_icons=true&locale=en&layout=compact" alt="priyanshu-bit" /> </p>
+   </td>
+<td><p><img align="right"  width ="495" height= "197" src="https://github-readme-stats.vercel.app/api?username=priyanshu-bit&show_icons=true&locale=en" alt="priyanshu-bit" /></p></td>
+</tr></table>
+<table align='center'><tr><td><p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-bit&" alt="priyanshu-bit" /></p></td></tr></table>
