@@ -3,20 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-bit&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-bit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bla_ck_scorpion" target="blank"><img src="https://img.shields.io/twitter/follow/bla_ck_scorpion?logo=twitter&style=for-the-badge" alt="bla_ck_scorpion" /></a> </p>
-
-- 🔭 I’m currently working on **Fit Scorpion**
-
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **MERN and DSA**
-
-- 📫 How to reach me **priyanshupatel56@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/resumedld](https://bit.ly/resumedld)
-
-- ⚡ Fun fact **I use Tabs instead of Spaces**
-
 <h3 align="left">Connect with me:</h3>
 <table><tr>
 <p align="left">
@@ -31,6 +17,21 @@
 </p>
    </tr>
    <table/>
+<p align="left"> <a href="https://twitter.com/bla_ck_scorpion" target="blank"><img src="https://img.shields.io/twitter/follow/bla_ck_scorpion?logo=twitter&style=for-the-badge" alt="bla_ck_scorpion" /></a> </p>
+
+- 🔭 I’m currently working on **Fit Scorpion**
+
+- 🌱 I’m currently learning **Typescript**
+
+- 💬 Ask me about **MERN and DSA**
+
+- 📫 How to reach me **priyanshupatel56@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/resumedld](https://bit.ly/resumedld)
+
+- ⚡ Fun fact **I use Tabs instead of Spaces**
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='center'>
