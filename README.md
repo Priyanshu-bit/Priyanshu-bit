@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
 <h3 align="center">A passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3></br>
-</br>
+
 
 <p align="right"> <img  width="15%" height= "15%" src="https://komarev.com/ghpvc/?username=priyanshu-bit&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-bit" /> </p>
 <!-- <hr/> -->
@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/priyanshump17" target="blank"><img align="center"  width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshump17" height="35" width="50"  /></a>
 <a href="https://auth.geeksforgeeks.org/user/theblackscorpion" target="blank"><img align="center" width ="9%"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theblackscorpion" height="35" width="50" /></a>
 </p>
-   
+   <img  src="https://user-images.githubusercontent.com/68877780/230766065-05e2cede-b442-433e-8309-fe149d84480d.png" width="30%" align="right" >
    <table/></hr>
    <h3 align="left">About me:</h3></hr>
 
@@ -37,7 +37,7 @@
 
 - ⚡ Fun fact **I use Tabs instead of Spaces**
 
-<img  src="geeky01adarsh.png" width="40%" align="right" >
+
 
 
 
