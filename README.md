@@ -18,13 +18,19 @@
 - ⚡ Fun fact **I use Tabs instead of Spaces**
 
 <h3 align="left">Connect with me:</h3>
+<table><tr>
 <p align="left">
-<a href="https://twitter.com/bla_ck_scorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bla_ck_scorpion" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshu patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu patel" height="30" width="40" /></a>
-<a href="https://instagram.com/_.priy_anshu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.priy_anshu__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshump17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshump17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/theblackscorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theblackscorpion" height="30" width="40" /></a>
+<td width="180" align='center'><a href="https://dev.to/https://dev.to/theblackscorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/theblackscorpion" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://twitter.com/bla_ck_scorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bla_ck_scorpion" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://linkedin.com/in/priyanshu patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu patel" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://instagram.com/_.priy_anshu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.priy_anshu__" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://hashnode.com/https://hashnode.com/@theblackscorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@theblackscorpion" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://www.codechef.com/users/https://www.codechef.com/users/priyanshu27rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/priyanshu27rex" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://www.leetcode.com/priyanshump17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshump17" height="30" width="40" /></a></td>
+<td width="180" align='center'><a href="https://auth.geeksforgeeks.org/user/theblackscorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theblackscorpion" height="30" width="40" /></a></td>
 </p>
+   </tr>
+   <table/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='center'>
