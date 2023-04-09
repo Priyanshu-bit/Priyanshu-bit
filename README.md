@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/priyanshump17" target="blank"><img align="center"  width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshump17" height="35" width="50"  /></a>
 <a href="https://auth.geeksforgeeks.org/user/theblackscorpion" target="blank"><img align="center" width ="9%"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theblackscorpion" height="35" width="50" /></a>
 </p>
-   <img  src="https://user-images.githubusercontent.com/68877780/230766065-05e2cede-b442-433e-8309-fe149d84480d.png"  width="350px" align="right" >
+   <img  src="https://user-images.githubusercontent.com/68877780/230766065-05e2cede-b442-433e-8309-fe149d84480d.png"  width="32%" align="right" >
    <table/></hr>
    <h3 align="left">About me:</h3></hr>
 
