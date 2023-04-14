@@ -12,7 +12,7 @@
 
 <table>
 <p align="center" >
-<a href="https://dev.to/https://dev.to/theblackscorpion" target="blank"><img align="center" width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/theblackscorpion" height="35" width="50" /></a>
+<a href="https://dev.to/theblackscorpion" target="blank"><img align="center" width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/theblackscorpion" height="35" width="50" /></a>
 <a href="https://twitter.com/bla_ck_scorpion" target="blank"><img align="center" width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bla_ck_scorpion" height="50" width="60" height="35" width="50" /></a>
 <a href="https://linkedin.com/in/priyanshu patel" target="blank"><img align="center"  width ="9%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu patel" height="35" width="50"  /></a>
 <a href="https://instagram.com/_.priy_anshu__" target="blank"><img align="center"  width ="9%"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.priy_anshu__" height="35" width="50" /></a>
